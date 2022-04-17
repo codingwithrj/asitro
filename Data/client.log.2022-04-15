@@ -1,0 +1,34 @@
+[2022-04-15 00:28:37] - discord.client - INFO - logging in using static token
+[2022-04-15 00:28:37] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-15 00:28:37] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-x7f9",{"micros":47105,"calls":["discord-sessions-blue-prd-2-117",{"micros":46335,"calls":["start_session",{"micros":38057,"calls":["discord-api-89576ccc8-5kbq6",{"micros":34409,"calls":["get_user",{"micros":7783},"add_authorized_ip",{"micros":1308},"get_guilds",{"micros":3208},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1583,"calls":[]}]}]}] (Session ID: 3750c626b3a147092c95441f9b75982c).
+[2022-04-15 00:28:39] - client - INFO - test bot11111#9463 is online.
+[2022-04-15 00:28:39] - errors - INFO - Errors cog loaded.
+[2022-04-15 00:28:39] - owner - INFO - Owner cog loaded.
+[2022-04-15 00:30:03] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-15 00:30:03] - discord.client - INFO - Cleaning up tasks.
+[2022-04-15 00:30:03] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-15 00:30:03] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-15 00:30:03] - discord.client - INFO - Closing the event loop.
+[2022-04-15 00:30:10] - discord.client - INFO - logging in using static token
+[2022-04-15 00:30:11] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-15 00:30:11] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-fxsd",{"micros":121374,"calls":["discord-sessions-blue-prd-2-33",{"micros":120064,"calls":["start_session",{"micros":49269,"calls":["discord-api-89576ccc8-bwrhk",{"micros":45209,"calls":["get_user",{"micros":7250},"add_authorized_ip",{"micros":1707},"get_guilds",{"micros":6093},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 39c5d42f946b889cc7ef6fede628c85a).
+[2022-04-15 00:30:13] - client - INFO - test bot11111#9463 is online.
+[2022-04-15 00:30:13] - errors - INFO - Errors cog loaded.
+[2022-04-15 00:30:13] - owner - INFO - Owner cog loaded.
+[2022-04-15 00:31:22] - owner - INFO - Restarting...
+[2022-04-15 00:31:23] - discord.client - INFO - logging in using static token
+[2022-04-15 00:31:23] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-15 00:31:23] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-v5gk",{"micros":52730,"calls":["discord-sessions-blue-prd-2-91",{"micros":51284,"calls":["start_session",{"micros":43457,"calls":["discord-api-89576ccc8-22gh4",{"micros":38918,"calls":["get_user",{"micros":6064},"add_authorized_ip",{"micros":2209},"get_guilds",{"micros":4868},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 2b687c44865e4e66f30c2bfbf711d632).
+[2022-04-15 00:31:25] - client - INFO - test bot11111#9463 is online.
+[2022-04-15 00:31:25] - errors - INFO - Errors cog loaded.
+[2022-04-15 00:31:25] - owner - INFO - Owner cog loaded.
+[2022-04-15 00:32:27] - owner - INFO - Reloaded extension: owner
+[2022-04-15 00:32:34] - owner - INFO - Shutting down.
+[2022-04-15 00:32:34] - discord.client - INFO - Cleaning up tasks.
+[2022-04-15 00:32:34] - discord.client - INFO - Closing the event loop.
+[2022-04-15 00:42:54] - discord.client - INFO - logging in using static token
+[2022-04-15 00:42:55] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-15 00:42:55] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-g8g3",{"micros":97460,"calls":["discord-sessions-blue-prd-2-72",{"micros":96691,"calls":["start_session",{"micros":72757,"calls":["discord-api-89576ccc8-pv5bf",{"micros":66474,"calls":["get_user",{"micros":14970},"add_authorized_ip",{"micros":3514},"get_guilds",{"micros":3591},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23340,"calls":[]}]}]}] (Session ID: 2acef06ab230b002e40b4d1443bcadb6).
+[2022-04-15 00:42:57] - client - INFO - test bot11111#9463 is online.
+[2022-04-15 00:42:57] - errors - INFO - Errors cog loaded.
+[2022-04-15 00:42:57] - owner - INFO - Owner cog loaded.
