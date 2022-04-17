@@ -14,6 +14,19 @@ Log = Logger("db_functions")
 # Creating the user obkect into database
 
 
+async def CreateGuild(guild):
+    myquery = {"Id": guild.id}
+    check = guilds.find_one(myquery)
+    if check == None:
+        payload = {
+            "Name": guild.name,
+            "Guild_Id": guild.id,
+            "Owner_Id": guild.owner.id,
+            "Owner_Name": guild.owner.name
+        }
+        return guilds.insert_one(payload)
+
+
 async def CreateUser(id):
     myquery = {"Id": id.id}
     check = users.find_one(myquery)
@@ -42,24 +55,20 @@ async def CreateUser(id):
             "Phone": None,
             "Ip": None,
             "Staff": id.public_flags.staff,
-            "Bug_Bunter": id.public_flags.bug_hunter,
             "Partner": id.public_flags.partner,
-            "Hypesquad_Member": id.public_flags.hypesquad,
-            "Bug_Hunter": id.public_flags.bug_hunter,
-            "Premium_promo_dismissed": id.public_flags.premium_promo_dismissed,
-            "Hypesquad_Bravery": id.public_flags.hypesquad_bravery,
-            "Hypesquad_Brilliance": id.public_flags.hypesquad_brilliance,
-            "Hypesquad_Balance": id.public_flags.hypesquad_balance,
             "Early_Supporter": id.public_flags.early_supporter,
             "Team_User": id.public_flags.team_user,
             "System": id.public_flags.system,
-            "Bug_Hunter_Level_2": id.public_flags.bug_hunter_level_2,
             "Verified_Bot_Developer": id.public_flags.verified_bot_developer,
             "Discord_Certified_Moderator": id.public_flags.discord_certified_moderator,
             "Bot_Admin": False,
             "Banned": False,
             "Ban_Reason": None,
-            "Items": [{"Loot Box 1": 1, "Loot Box 2": 0, "loot Box 3": 0}]
+            "Items": [{"Loot Box 1": 1, "Loot Box 2": 0, "loot Box 3": 0}],
+            "Server_Ban": False,
+            "Server_Ban_Reason": None,
+            "Server_Kicks": 0,
+            "Server_Warns": 0,
         }
         await Log.info(f"Created user with the discord id of {id.id}")
         return users.insert_one(payload)

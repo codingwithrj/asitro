@@ -18,6 +18,6 @@ db = myclient["mydatabase"]
 # setting up the database
 
 users = db["users"]
-
+guilds = db["guilds"]
 
 # setting up the user collection

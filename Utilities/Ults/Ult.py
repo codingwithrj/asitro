@@ -5,7 +5,12 @@ from Utilities.Log.Log import *
 import os
 from discord.ext import commands
 import datetime
+from dotenv import load_dotenv
+from datetime import datetime
 
+time = datetime.now()
+
+load_dotenv()
 # My imports
 
 Log = Logger("ult")
