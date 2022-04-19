@@ -1,0 +1,1111 @@
+[2022-04-16 19:59:38] - discord.client - INFO - logging in using static token
+[2022-04-16 19:59:39] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 19:59:39] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-wggp",{"micros":149516,"calls":["discord-sessions-blue-prd-2-41",{"micros":148513,"calls":["start_session",{"micros":115050,"calls":["discord-api-6db46b8d45-n5749",{"micros":110206,"calls":["get_user",{"micros":11818},"add_authorized_ip",{"micros":8988},"get_guilds",{"micros":20517},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8438,"calls":[]}]}]}] (Session ID: 8b11bdc1acf7dca1d1a20730b12fdac6).
+[2022-04-16 19:59:41] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 19:59:41] - errors - INFO - Errors cog loaded.
+[2022-04-16 19:59:41] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:12:57] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:12:57] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:12:57] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:12:57] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:12:57] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:12:58] - discord.client - INFO - logging in using static token
+[2022-04-16 20:12:59] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:12:59] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-qhfp",{"micros":70588,"calls":["discord-sessions-blue-prd-2-19",{"micros":69486,"calls":["start_session",{"micros":50564,"calls":["discord-api-6db46b8d45-sfng7",{"micros":46350,"calls":["get_user",{"micros":5482},"add_authorized_ip",{"micros":3347},"get_guilds",{"micros":3656},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":14925,"calls":[]}]}]}] (Session ID: 54bcd5e9ce0edee62af169b1d394c115).
+[2022-04-16 20:13:01] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:13:01] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:13:01] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:15:39] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:15:39] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:15:39] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:15:39] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:15:39] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:15:53] - discord.client - INFO - logging in using static token
+[2022-04-16 20:15:53] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:15:54] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-g05n",{"micros":100966,"calls":["discord-sessions-blue-prd-2-34",{"micros":99932,"calls":["start_session",{"micros":43030,"calls":["discord-api-6db46b8d45-qs8km",{"micros":36659,"calls":["get_user",{"micros":5898},"add_authorized_ip",{"micros":1949},"get_guilds",{"micros":4812},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30660,"calls":[]}]}]}] (Session ID: 0b8cc69ab967b97e194c5d69581fac1d).
+[2022-04-16 20:15:56] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:15:56] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:15:56] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:18:28] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:18:28] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:18:28] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:18:28] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:18:28] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:18:29] - discord.client - INFO - logging in using static token
+[2022-04-16 20:18:30] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:18:30] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-72rv",{"micros":92236,"calls":["discord-sessions-blue-prd-2-29",{"micros":91157,"calls":["start_session",{"micros":42981,"calls":["discord-api-6db46b8d45-qs8km",{"micros":38882,"calls":["get_user",{"micros":5252},"add_authorized_ip",{"micros":1448},"get_guilds",{"micros":7927},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":25638,"calls":[]}]}]}] (Session ID: 19141687baee4bfa301095149c67f071).
+[2022-04-16 20:18:32] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:18:32] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:18:32] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:18:54] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:18:54] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:18:54] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:18:54] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:18:54] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:19:54] - discord.client - INFO - logging in using static token
+[2022-04-16 20:19:54] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:19:54] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-w7c8",{"micros":65321,"calls":["discord-sessions-blue-prd-2-54",{"micros":63985,"calls":["start_session",{"micros":61167,"calls":["discord-api-6db46b8d45-v6ll8",{"micros":53185,"calls":["get_user",{"micros":10786},"add_authorized_ip",{"micros":2726},"get_guilds",{"micros":5365},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: c14362efcfbfc25849ec22ca03901e54).
+[2022-04-16 20:19:56] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:19:56] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:19:56] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:19:56] - db_functions - INFO - Db functions test
+[2022-04-16 20:28:37] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:28:37] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:28:37] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:28:37] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:28:37] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:50:26] - discord.client - INFO - logging in using static token
+[2022-04-16 20:50:27] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:50:27] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-mbvq",{"micros":146090,"calls":["discord-sessions-blue-prd-2-74",{"micros":144798,"calls":["start_session",{"micros":99565,"calls":["discord-api-6db46b8d45-bc84g",{"micros":92866,"calls":["get_user",{"micros":14121},"add_authorized_ip",{"micros":4749},"get_guilds",{"micros":14786},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: a48dbb868216a5e20875c1545a8e73ea).
+[2022-04-16 20:50:29] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:50:29] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:50:29] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:50:49] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:50:49] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:50:49] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:50:49] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:50:49] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:50:51] - discord.client - INFO - logging in using static token
+[2022-04-16 20:50:51] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:50:52] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-wgk4",{"micros":152627,"calls":["discord-sessions-blue-prd-2-6",{"micros":144242,"calls":["start_session",{"micros":111937,"calls":["discord-api-6db46b8d45-brmxk",{"micros":105284,"calls":["get_user",{"micros":19062},"add_authorized_ip",{"micros":14967},"get_guilds",{"micros":22814},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3345,"calls":[]}]}]}] (Session ID: 82b7f2b40d27d9ab62f9453d083724b6).
+[2022-04-16 20:50:54] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:50:54] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:50:54] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:51:13] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:51:13] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:51:13] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:51:13] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:51:13] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:51:14] - discord.client - INFO - logging in using static token
+[2022-04-16 20:51:15] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:51:15] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-lrr9",{"micros":77172,"calls":["discord-sessions-blue-prd-2-99",{"micros":75385,"calls":["start_session",{"micros":62050,"calls":["discord-api-6db46b8d45-nsw24",{"micros":57791,"calls":["get_user",{"micros":21007},"add_authorized_ip",{"micros":1802},"get_guilds",{"micros":9176},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5450,"calls":[]}]}]}] (Session ID: 2fc2fa3bb43c9287b5461e16e8f12547).
+[2022-04-16 20:51:16] - discord.http - WARNING - We are being rate limited. Retrying in 12.29 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 20:51:17] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:51:17] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:51:17] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:51:27] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:51:27] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:51:27] - discord.client - INFO - Cleaning up after 3 tasks.
+[2022-04-16 20:51:28] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:51:28] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:51:29] - discord.client - INFO - logging in using static token
+[2022-04-16 20:51:30] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:51:30] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-zw6d",{"micros":102643,"calls":["discord-sessions-blue-prd-2-62",{"micros":101808,"calls":["start_session",{"micros":96036,"calls":["discord-api-6db46b8d45-l99kh",{"micros":91656,"calls":["get_user",{"micros":47073},"add_authorized_ip",{"micros":2396},"get_guilds",{"micros":4253},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":5015,"calls":[]}]}]}] (Session ID: bc98f654ed318ed8b9bd25a0062f4011).
+[2022-04-16 20:51:32] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:51:32] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:51:32] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:51:48] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:51:48] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:51:48] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:51:48] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:51:48] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:51:50] - discord.client - INFO - logging in using static token
+[2022-04-16 20:51:50] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:51:50] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-fxsd",{"micros":118624,"calls":["discord-sessions-blue-prd-2-5",{"micros":117551,"calls":["start_session",{"micros":54151,"calls":["discord-api-6db46b8d45-qnm6l",{"micros":50050,"calls":["get_user",{"micros":5540},"add_authorized_ip",{"micros":3279},"get_guilds",{"micros":4809},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16003,"calls":[]}]}]}] (Session ID: cc7a1df40eb006c677ab626d6df24f38).
+[2022-04-16 20:51:52] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:51:52] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:51:52] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:53:04] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:53:04] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:53:04] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:53:04] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:53:04] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:53:06] - discord.client - INFO - logging in using static token
+[2022-04-16 20:53:06] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:53:06] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-d447",{"micros":74878,"calls":["discord-sessions-blue-prd-2-70",{"micros":64325,"calls":["start_session",{"micros":48107,"calls":["discord-api-6db46b8d45-89q8w",{"micros":42660,"calls":["get_user",{"micros":7116},"add_authorized_ip",{"micros":1741},"get_guilds",{"micros":3989},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 9d81c909219effd8bf982713e211fb24).
+[2022-04-16 20:53:08] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:53:08] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:53:08] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:55:12] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:55:12] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:55:12] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:55:12] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:55:12] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:55:14] - discord.client - INFO - logging in using static token
+[2022-04-16 20:55:15] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:55:15] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-cvp5",{"micros":117997,"calls":["discord-sessions-blue-prd-2-58",{"micros":117182,"calls":["start_session",{"micros":86036,"calls":["discord-api-6db46b8d45-qgb2j",{"micros":81433,"calls":["get_user",{"micros":7332},"add_authorized_ip",{"micros":2870},"get_guilds",{"micros":42021},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23451,"calls":[]}]}]}] (Session ID: 5b3c0cb7dde51a02db00b4fa6b47b325).
+[2022-04-16 20:55:17] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:55:17] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:55:17] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:55:34] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:55:34] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:55:34] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:55:34] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:55:34] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:55:35] - discord.client - INFO - logging in using static token
+[2022-04-16 20:55:36] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:55:36] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-q70m",{"micros":149871,"calls":["discord-sessions-blue-prd-2-27",{"micros":148939,"calls":["start_session",{"micros":121428,"calls":["discord-api-6db46b8d45-ptzr8",{"micros":107250,"calls":["get_user",{"micros":20683},"add_authorized_ip",{"micros":7104},"get_guilds",{"micros":19672},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17477,"calls":[]}]}]}] (Session ID: 25a64630ffa4b4dcafab0a034213d454).
+[2022-04-16 20:55:38] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:55:38] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:55:38] - discord.client - INFO - Cleaning up after 4 tasks.
+[2022-04-16 20:55:38] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:55:38] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:55:43] - discord.client - INFO - logging in using static token
+[2022-04-16 20:55:43] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:55:43] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-klrm",{"micros":71147,"calls":["discord-sessions-blue-prd-2-124",{"micros":69869,"calls":["start_session",{"micros":52923,"calls":["discord-api-6db46b8d45-zq69w",{"micros":49259,"calls":["get_user",{"micros":7313},"add_authorized_ip",{"micros":3789},"get_guilds",{"micros":5625},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":528,"calls":[]}]}]}] (Session ID: ab29255b145e3c7e3c155aa991f1281e).
+[2022-04-16 20:55:45] - discord.http - WARNING - We are being rate limited. Retrying in 31.75 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 20:55:45] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:55:45] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:55:45] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:58:07] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:58:07] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:58:07] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:58:07] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:58:07] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:58:09] - discord.client - INFO - logging in using static token
+[2022-04-16 20:58:10] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:58:10] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-ss5t",{"micros":102885,"calls":["discord-sessions-blue-prd-2-78",{"micros":102080,"calls":["start_session",{"micros":58454,"calls":["discord-api-6db46b8d45-k7hpk",{"micros":46419,"calls":["get_user",{"micros":9506},"add_authorized_ip",{"micros":2743},"get_guilds",{"micros":4971},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":18976,"calls":[]}]}]}] (Session ID: 01052945c4c0d819147526bfe528d492).
+[2022-04-16 20:58:12] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:58:12] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:58:12] - owner - INFO - Owner cog loaded.
+[2022-04-16 20:59:20] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:59:20] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:59:20] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:59:20] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:59:20] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:59:22] - discord.client - INFO - logging in using static token
+[2022-04-16 20:59:22] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:59:23] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-k6dw",{"micros":133969,"calls":["discord-sessions-blue-prd-2-162",{"micros":133240,"calls":["start_session",{"micros":92826,"calls":["discord-api-6db46b8d45-f9f2p",{"micros":86971,"calls":["get_user",{"micros":10962},"add_authorized_ip",{"micros":7006},"get_guilds",{"micros":19552},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":33624,"calls":[]}]}]}] (Session ID: fc2eca9483e68ce104e97802da649212).
+[2022-04-16 20:59:25] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:59:25] - errors - INFO - Errors cog loaded.
+[2022-04-16 20:59:45] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 20:59:45] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 20:59:45] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 20:59:46] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 20:59:46] - discord.client - INFO - Closing the event loop.
+[2022-04-16 20:59:47] - discord.client - INFO - logging in using static token
+[2022-04-16 20:59:48] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 20:59:48] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-td5b",{"micros":79851,"calls":["discord-sessions-blue-prd-2-129",{"micros":79057,"calls":["start_session",{"micros":43729,"calls":["discord-api-6db46b8d45-9xdkq",{"micros":39291,"calls":["get_user",{"micros":10132},"add_authorized_ip",{"micros":1774},"get_guilds",{"micros":4977},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":31069,"calls":[]}]}]}] (Session ID: d1ff00651f3fe673d089c4bbbce6b29a).
+[2022-04-16 20:59:50] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 20:59:50] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:00:45] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:00:45] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:00:45] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:00:45] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:00:45] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:00:46] - discord.client - INFO - logging in using static token
+[2022-04-16 21:00:47] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:00:47] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-2bh0",{"micros":65995,"calls":["discord-sessions-blue-prd-2-23",{"micros":64418,"calls":["start_session",{"micros":55017,"calls":["discord-api-6db46b8d45-wcc9p",{"micros":48467,"calls":["get_user",{"micros":7083},"add_authorized_ip",{"micros":4630},"get_guilds",{"micros":6940},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 649b1297640d17a0ed9e18768891c2bb).
+[2022-04-16 21:00:49] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:00:49] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:02:55] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:02:55] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:02:55] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:02:55] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:02:55] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:02:57] - discord.client - INFO - logging in using static token
+[2022-04-16 21:02:58] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:02:58] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-m0fs",{"micros":87082,"calls":["discord-sessions-blue-prd-2-52",{"micros":86099,"calls":["start_session",{"micros":54488,"calls":["discord-api-6db46b8d45-wgzmn",{"micros":49201,"calls":["get_user",{"micros":6814},"add_authorized_ip",{"micros":3026},"get_guilds",{"micros":6420},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":31031,"calls":[]}]}]}] (Session ID: 448f3daabf3e75df4dcf1cddc2ec37f0).
+[2022-04-16 21:03:00] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:03:00] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:08:19] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:08:19] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:08:19] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:08:19] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:08:19] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:10:19] - discord.client - INFO - logging in using static token
+[2022-04-16 21:10:19] - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+[2022-04-16 21:10:19] - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-9597",{"micros":74238,"calls":["discord-sessions-blue-prd-2-18",{"micros":71458,"calls":["start_session",{"micros":59389,"calls":["discord-api-6db46b8d45-m72f5",{"micros":52729,"calls":["get_user",{"micros":11685},"add_authorized_ip",{"micros":3407},"get_guilds",{"micros":7814},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 79dc5bfe9b6665adc31fc1db4d4fa97f).
+[2022-04-16 21:10:21] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:10:21] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:12:26] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:12:26] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:12:26] - discord.client - INFO - Cleaning up after 1 tasks.
+[2022-04-16 21:12:26] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:12:26] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:14:03] - discord.client - INFO - logging in using static token
+[2022-04-16 21:14:04] - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+[2022-04-16 21:14:04] - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-f78k",{"micros":88807,"calls":["discord-sessions-blue-prd-2-105",{"micros":87762,"calls":["start_session",{"micros":86072,"calls":["discord-api-6db46b8d45-vp5l6",{"micros":82168,"calls":["get_user",{"micros":11830},"add_authorized_ip",{"micros":2434},"get_guilds",{"micros":15213},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1132,"calls":[]}]}]}] (Session ID: 0141a0b0ffb2221ac224e5cc0b2a4ee7).
+[2022-04-16 21:14:06] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:14:06] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:20:37] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:20:37] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:20:37] - discord.client - INFO - Cleaning up after 1 tasks.
+[2022-04-16 21:20:37] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:20:37] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:20:39] - discord.client - INFO - logging in using static token
+[2022-04-16 21:20:40] - discord.gateway - INFO - Shard ID None has sent the IDENTIFY payload.
+[2022-04-16 21:20:40] - discord.gateway - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-p0xk",{"micros":110780,"calls":["discord-sessions-blue-prd-2-4",{"micros":109914,"calls":["start_session",{"micros":73178,"calls":["discord-api-6db46b8d45-t98w2",{"micros":63772,"calls":["get_user",{"micros":12336},"add_authorized_ip",{"micros":5648},"get_guilds",{"micros":9700},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14875,"calls":[]}]}]}] (Session ID: a21e75baf77656b6aa535b1f9d64382f).
+[2022-04-16 21:20:42] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:20:42] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:20:42] - test - INFO - Errors cog loaded.
+[2022-04-16 21:21:09] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:21:09] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:21:09] - discord.client - INFO - Cleaning up after 1 tasks.
+[2022-04-16 21:21:09] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:21:09] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:21:21] - discord.client - INFO - logging in using static token
+[2022-04-16 21:22:03] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:22:03] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:22:03] - discord.client - INFO - Cleaning up after 1 tasks.
+[2022-04-16 21:22:03] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:22:03] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:22:07] - discord.client - INFO - logging in using static token
+[2022-04-16 21:22:07] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:22:07] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-3jvm",{"micros":136917,"calls":["discord-sessions-blue-prd-2-175",{"micros":136132,"calls":["start_session",{"micros":101623,"calls":["discord-api-6db46b8d45-mm7b5",{"micros":95779,"calls":["get_user",{"micros":16090},"add_authorized_ip",{"micros":5623},"get_guilds",{"micros":15339},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":33006,"calls":[]}]}]}] (Session ID: 644b7450f0636ac6613e7e3f73e78cd8).
+[2022-04-16 21:22:09] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:22:09] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:22:09] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:22:09] - test - INFO - Errors cog loaded.
+[2022-04-16 21:22:14] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:22:14] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:22:14] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:22:14] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:22:14] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:28:26] - discord.client - INFO - logging in using static token
+[2022-04-16 21:28:26] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:28:26] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-j7cd",{"micros":118481,"calls":["discord-sessions-blue-prd-2-73",{"micros":117698,"calls":["start_session",{"micros":96334,"calls":["discord-api-6db46b8d45-pmbk6",{"micros":84370,"calls":["get_user",{"micros":12240},"add_authorized_ip",{"micros":4377},"get_guilds",{"micros":13098},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9924,"calls":[]}]}]}] (Session ID: bdb325bafe98ee06b6d8a34b9f443cf3).
+[2022-04-16 21:28:28] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:28:28] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:28:28] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:28:28] - test - INFO - Errors cog loaded.
+[2022-04-16 21:28:49] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:28:49] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:28:49] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:28:49] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:28:49] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:28:52] - discord.client - INFO - logging in using static token
+[2022-04-16 21:28:52] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:28:52] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-ws5p",{"micros":114364,"calls":["discord-sessions-blue-prd-2-70",{"micros":113421,"calls":["start_session",{"micros":45620,"calls":["discord-api-6db46b8d45-hwn7v",{"micros":40711,"calls":["get_user",{"micros":5781},"add_authorized_ip",{"micros":1533},"get_guilds",{"micros":4984},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":37085,"calls":[]}]}]}] (Session ID: 0fac99287bfea7feecd8a04ea4570c27).
+[2022-04-16 21:28:54] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:28:54] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:28:54] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:28:54] - test - INFO - Test cog loaded.
+[2022-04-16 21:30:28] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:30:28] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:30:28] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:30:28] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:30:28] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:30:31] - discord.client - INFO - logging in using static token
+[2022-04-16 21:30:31] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:30:32] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-192p",{"micros":72290,"calls":["discord-sessions-blue-prd-2-45",{"micros":70332,"calls":["start_session",{"micros":56791,"calls":["discord-api-6db46b8d45-q9wcv",{"micros":53048,"calls":["get_user",{"micros":5114},"add_authorized_ip",{"micros":3432},"get_guilds",{"micros":9166},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: bd1e4466d48042dbe814be3739dc4d37).
+[2022-04-16 21:30:34] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:30:34] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:30:34] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:30:34] - test - INFO - Test cog loaded.
+[2022-04-16 21:30:56] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:30:56] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:30:56] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:30:57] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:30:57] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:30:58] - discord.client - INFO - logging in using static token
+[2022-04-16 21:30:59] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:30:59] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-t1q7",{"micros":89088,"calls":["discord-sessions-blue-prd-2-23",{"micros":88321,"calls":["start_session",{"micros":63640,"calls":["discord-api-6db46b8d45-ql9x4",{"micros":55319,"calls":["get_user",{"micros":16985},"add_authorized_ip",{"micros":2681},"get_guilds",{"micros":3939},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1444,"calls":[]}]}]}] (Session ID: f4638915a6fe16f6d26964b4ac6db27f).
+[2022-04-16 21:31:01] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:31:01] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:31:01] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:31:01] - test - INFO - Test cog loaded.
+[2022-04-16 21:31:38] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:31:38] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:31:38] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:31:38] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:31:38] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:31:40] - discord.client - INFO - logging in using static token
+[2022-04-16 21:31:40] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:31:40] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-mbvq",{"micros":102059,"calls":["discord-sessions-blue-prd-2-81",{"micros":101218,"calls":["start_session",{"micros":44787,"calls":["discord-api-6db46b8d45-xhjrq",{"micros":39997,"calls":["get_user",{"micros":7686},"add_authorized_ip",{"micros":1843},"get_guilds",{"micros":4547},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":20435,"calls":[]}]}]}] (Session ID: fb43a2af8057d9dbc587206956fcbfe3).
+[2022-04-16 21:31:42] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:31:42] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:31:42] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:31:42] - test - INFO - Test cog loaded.
+[2022-04-16 21:32:32] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:32:32] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:32:32] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:32:32] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:32:32] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:32:34] - discord.client - INFO - logging in using static token
+[2022-04-16 21:32:35] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:32:35] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-gz26",{"micros":87290,"calls":["discord-sessions-blue-prd-2-82",{"micros":84421,"calls":["start_session",{"micros":58280,"calls":["discord-api-6db46b8d45-jc62r",{"micros":51975,"calls":["get_user",{"micros":10085},"add_authorized_ip",{"micros":3397},"get_guilds",{"micros":3667},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13257,"calls":[]}]}]}] (Session ID: 90935533af25be4e8c8b158379d3ffd3).
+[2022-04-16 21:32:37] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:32:37] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:32:37] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:32:37] - test - INFO - Test cog loaded.
+[2022-04-16 21:45:52] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:45:52] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:45:52] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:45:52] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:45:52] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:45:54] - discord.client - INFO - logging in using static token
+[2022-04-16 21:45:54] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:45:55] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-h6gh",{"micros":112477,"calls":["discord-sessions-blue-prd-2-99",{"micros":111546,"calls":["start_session",{"micros":50833,"calls":["discord-api-6db46b8d45-smj2p",{"micros":46075,"calls":["get_user",{"micros":7234},"add_authorized_ip",{"micros":1609},"get_guilds",{"micros":6731},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 04321ed4d99b745b6f5aa65f45ea60d8).
+[2022-04-16 21:45:57] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:45:57] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:45:57] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:45:57] - test - INFO - Test cog loaded.
+[2022-04-16 21:48:25] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:48:25] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:48:25] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:48:25] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:48:25] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:48:27] - discord.client - INFO - logging in using static token
+[2022-04-16 21:48:27] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:48:28] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-d9zh",{"micros":144069,"calls":["discord-sessions-blue-prd-2-64",{"micros":143151,"calls":["start_session",{"micros":107602,"calls":["discord-api-6db46b8d45-rjcs8",{"micros":92947,"calls":["get_user",{"micros":17257},"add_authorized_ip",{"micros":3092},"get_guilds",{"micros":8101},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":24700,"calls":[]}]}]}] (Session ID: 366ec8d0d54578725cdc210aaace3eb9).
+[2022-04-16 21:48:30] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:48:30] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:48:30] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:48:30] - test - INFO - Test cog loaded.
+[2022-04-16 21:49:44] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:49:44] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:49:44] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:49:44] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:49:44] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:49:46] - discord.client - INFO - logging in using static token
+[2022-04-16 21:49:47] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:49:47] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-gzf6",{"micros":124737,"calls":["discord-sessions-blue-prd-2-131",{"micros":123769,"calls":["start_session",{"micros":93399,"calls":["discord-api-6db46b8d45-fxg4h",{"micros":84961,"calls":["get_user",{"micros":12001},"add_authorized_ip",{"micros":4822},"get_guilds",{"micros":20046},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16331,"calls":[]}]}]}] (Session ID: f8c833bd4e72125e3724e92a9831092b).
+[2022-04-16 21:49:49] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:49:49] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:49:49] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:49:49] - test - INFO - Test cog loaded.
+[2022-04-16 21:58:16] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 21:58:16] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 21:58:16] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 21:58:16] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 21:58:16] - discord.client - INFO - Closing the event loop.
+[2022-04-16 21:58:37] - discord.client - INFO - logging in using static token
+[2022-04-16 21:58:37] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 21:58:37] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-mbq9",{"micros":78059,"calls":["discord-sessions-blue-prd-2-164",{"micros":77337,"calls":["start_session",{"micros":37461,"calls":["discord-api-6db46b8d45-h9vl2",{"micros":33845,"calls":["get_user",{"micros":5213},"add_authorized_ip",{"micros":1225},"get_guilds",{"micros":4305},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":24723,"calls":[]}]}]}] (Session ID: 7074a074658c4b87e890ea550e974e61).
+[2022-04-16 21:58:39] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 21:58:39] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 21:58:39] - errors - INFO - Errors cog loaded.
+[2022-04-16 21:58:39] - test - INFO - Test cog loaded.
+[2022-04-16 22:13:18] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:13:18] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:13:18] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:13:18] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:13:18] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:20:04] - discord.client - INFO - logging in using static token
+[2022-04-16 22:20:04] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:20:05] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-xx65",{"micros":123530,"calls":["discord-sessions-blue-prd-2-121",{"micros":112191,"calls":["start_session",{"micros":72917,"calls":["discord-api-6db46b8d45-x9rnh",{"micros":66633,"calls":["get_user",{"micros":9709},"add_authorized_ip",{"micros":4902},"get_guilds",{"micros":5594},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":25242,"calls":[]}]}]}] (Session ID: 320968def383427a81e44e3f663f2610).
+[2022-04-16 22:20:07] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:20:07] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:20:07] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:20:07] - test - INFO - Test cog loaded.
+[2022-04-16 22:23:58] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:23:58] - Ult_Functions - INFO - Converting Dict to json
+[2022-04-16 22:25:53] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:25:53] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:25:53] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:25:54] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:25:54] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:25:55] - discord.client - INFO - logging in using static token
+[2022-04-16 22:25:56] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:25:56] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-sktr",{"micros":74078,"calls":["discord-sessions-blue-prd-2-128",{"micros":73161,"calls":["start_session",{"micros":47669,"calls":["discord-api-6db46b8d45-pjlj5",{"micros":43171,"calls":["get_user",{"micros":8186},"add_authorized_ip",{"micros":1847},"get_guilds",{"micros":3703},"coros_wait",{"micros":4}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9784,"calls":[]}]}]}] (Session ID: a527ce97c63e136c6540efe96858bab5).
+[2022-04-16 22:25:58] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:25:58] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:25:58] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:25:58] - test - INFO - Test cog loaded.
+[2022-04-16 22:26:10] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:26:10] - Ult_Functions - INFO - Converting Dict to json
+[2022-04-16 22:26:31] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:26:31] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:26:31] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:26:31] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:26:31] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:26:33] - discord.client - INFO - logging in using static token
+[2022-04-16 22:26:34] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:26:34] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-qfw9",{"micros":95771,"calls":["discord-sessions-blue-prd-2-134",{"micros":94939,"calls":["start_session",{"micros":59908,"calls":["discord-api-6db46b8d45-x6rwn",{"micros":54837,"calls":["get_user",{"micros":14262},"add_authorized_ip",{"micros":4677},"get_guilds",{"micros":6480},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23291,"calls":[]}]}]}] (Session ID: 9ab3900d1588eca65d66e4f35d6d018c).
+[2022-04-16 22:26:36] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:26:36] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:26:36] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:26:36] - test - INFO - Test cog loaded.
+[2022-04-16 22:26:41] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:30:55] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:30:55] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:30:55] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:30:55] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:30:55] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:30:57] - discord.client - INFO - logging in using static token
+[2022-04-16 22:30:57] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:30:57] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-kjr2",{"micros":90293,"calls":["discord-sessions-blue-prd-2-159",{"micros":89320,"calls":["start_session",{"micros":45856,"calls":["discord-api-6db46b8d45-q29z7",{"micros":41454,"calls":["get_user",{"micros":7391},"add_authorized_ip",{"micros":2890},"get_guilds",{"micros":4163},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5627,"calls":[]}]}]}] (Session ID: fe339f6d0cd583a403eb1b99b03036c0).
+[2022-04-16 22:30:59] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:30:59] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:30:59] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:30:59] - test - INFO - Test cog loaded.
+[2022-04-16 22:31:00] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:34:13] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:34:13] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:34:13] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:34:14] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:34:14] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:34:15] - discord.client - INFO - logging in using static token
+[2022-04-16 22:34:16] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:34:16] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-857b",{"micros":93109,"calls":["discord-sessions-blue-prd-2-75",{"micros":92218,"calls":["start_session",{"micros":44449,"calls":["discord-api-6db46b8d45-7f22x",{"micros":40600,"calls":["get_user",{"micros":7833},"add_authorized_ip",{"micros":2066},"get_guilds",{"micros":3749},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":42772,"calls":[]}]}]}] (Session ID: cb9df8c0be6bad92b111bbf8f2ce9bfb).
+[2022-04-16 22:34:18] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:34:18] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:34:18] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:34:18] - test - INFO - Test cog loaded.
+[2022-04-16 22:34:21] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:35:18] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:35:18] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:35:18] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:35:18] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:35:18] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:35:20] - discord.client - INFO - logging in using static token
+[2022-04-16 22:35:21] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:35:21] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-m6mm",{"micros":122981,"calls":["discord-sessions-blue-prd-2-10",{"micros":114564,"calls":["start_session",{"micros":83268,"calls":["discord-api-6db46b8d45-mtz8g",{"micros":79146,"calls":["get_user",{"micros":9999},"add_authorized_ip",{"micros":2216},"get_guilds",{"micros":8654},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":22593,"calls":[]}]}]}] (Session ID: 7ab545b4f9f01a2bb4304a1d59a81352).
+[2022-04-16 22:35:23] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:35:23] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:35:23] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:35:23] - test - INFO - Test cog loaded.
+[2022-04-16 22:35:25] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:35:50] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:35:50] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:35:50] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:35:50] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:35:50] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:35:59] - discord.client - INFO - logging in using static token
+[2022-04-16 22:35:59] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:35:59] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-lkt7",{"micros":77450,"calls":["discord-sessions-blue-prd-2-173",{"micros":76510,"calls":["start_session",{"micros":59170,"calls":["discord-api-6db46b8d45-plnbk",{"micros":48439,"calls":["get_user",{"micros":12109},"add_authorized_ip",{"micros":1595},"get_guilds",{"micros":3617},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16024,"calls":[]}]}]}] (Session ID: 82de3c114ee03c683bd394a59ec31f62).
+[2022-04-16 22:36:01] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:36:01] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:36:01] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:36:01] - test - INFO - Test cog loaded.
+[2022-04-16 22:36:02] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:36:41] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:36:41] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:36:41] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:36:41] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:36:41] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:36:43] - discord.client - INFO - logging in using static token
+[2022-04-16 22:36:44] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:36:44] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-q2sk",{"micros":68784,"calls":["discord-sessions-blue-prd-2-38",{"micros":67860,"calls":["start_session",{"micros":37222,"calls":["discord-api-6db46b8d45-wcc9p",{"micros":32923,"calls":["get_user",{"micros":6989},"add_authorized_ip",{"micros":1236},"get_guilds",{"micros":3030},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":17694,"calls":[]}]}]}] (Session ID: 9d1f9e83e7ebdee1097b109dd5124e3d).
+[2022-04-16 22:36:46] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:36:46] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:36:46] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:36:46] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:36:46] - test - INFO - Test cog loaded.
+[2022-04-16 22:37:36] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:37:36] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:37:36] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:37:36] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:37:36] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:37:39] - discord.client - INFO - logging in using static token
+[2022-04-16 22:37:39] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:37:39] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-pwf4",{"micros":104800,"calls":["discord-sessions-blue-prd-2-156",{"micros":94833,"calls":["start_session",{"micros":48726,"calls":["discord-api-6db46b8d45-x9rnh",{"micros":43792,"calls":["get_user",{"micros":6036},"add_authorized_ip",{"micros":2670},"get_guilds",{"micros":6268},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":10606,"calls":[]}]}]}] (Session ID: 21dc3abe3631d208bb9cf564753a6c57).
+[2022-04-16 22:37:41] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:37:42] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:37:42] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:37:42] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:37:42] - test - INFO - Test cog loaded.
+[2022-04-16 22:38:42] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:38:42] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:38:42] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:38:42] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:38:42] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:38:44] - discord.client - INFO - logging in using static token
+[2022-04-16 22:38:44] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:38:44] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-x7f9",{"micros":62500,"calls":["discord-sessions-blue-prd-2-123",{"micros":60644,"calls":["start_session",{"micros":45968,"calls":["discord-api-6db46b8d45-f988z",{"micros":41576,"calls":["get_user",{"micros":8172},"add_authorized_ip",{"micros":2698},"get_guilds",{"micros":3589},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 4166bf9a5ccb58b24016abe34073fab2).
+[2022-04-16 22:38:46] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:38:46] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:38:46] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:38:46] - test - INFO - Test cog loaded.
+[2022-04-16 22:38:47] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:39:01] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:39:01] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:39:01] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:39:02] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:39:02] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:39:06] - discord.client - INFO - logging in using static token
+[2022-04-16 22:39:07] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:39:07] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-mqjt",{"micros":183560,"calls":["discord-sessions-blue-prd-2-95",{"micros":182672,"calls":["start_session",{"micros":122372,"calls":["discord-api-6db46b8d45-55vxx",{"micros":116488,"calls":["get_user",{"micros":17842},"add_authorized_ip",{"micros":2933},"get_guilds",{"micros":9639},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":31996,"calls":[]}]}]}] (Session ID: 7d5c7fff3c4edb980485c2aa04e64fcc).
+[2022-04-16 22:39:08] - Ult_Functions - INFO - Creating payload for user id 922763629185601597
+[2022-04-16 22:39:09] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:39:09] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:39:09] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:39:09] - test - INFO - Test cog loaded.
+[2022-04-16 22:41:47] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:41:47] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:41:47] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:41:47] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:41:47] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:42:49] - discord.client - INFO - logging in using static token
+[2022-04-16 22:42:49] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:42:49] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-rk0h",{"micros":130981,"calls":["discord-sessions-blue-prd-2-121",{"micros":129364,"calls":["start_session",{"micros":121083,"calls":["discord-api-6db46b8d45-qs8km",{"micros":107522,"calls":["get_user",{"micros":23133},"add_authorized_ip",{"micros":8949},"get_guilds",{"micros":9970},"coros_wait",{"micros":4}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: ed9605e8a2ecf9229b7cf0c62dec5ed9).
+[2022-04-16 22:42:51] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:42:51] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:42:51] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:42:51] - test - INFO - Test cog loaded.
+[2022-04-16 22:43:17] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:43:17] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:43:17] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:43:17] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:43:17] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:43:20] - discord.client - INFO - logging in using static token
+[2022-04-16 22:43:20] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:43:21] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-qhfp",{"micros":126446,"calls":["discord-sessions-blue-prd-2-124",{"micros":125488,"calls":["start_session",{"micros":95284,"calls":["discord-api-6db46b8d45-5rxvq",{"micros":90348,"calls":["get_user",{"micros":10410},"add_authorized_ip",{"micros":4055},"get_guilds",{"micros":9810},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7865,"calls":[]}]}]}] (Session ID: 1157a3269179759c355da633dbaf2cb2).
+[2022-04-16 22:43:23] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:43:23] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:43:23] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:43:23] - test - INFO - Test cog loaded.
+[2022-04-16 22:43:35] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:43:35] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:43:35] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:43:35] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:43:35] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:43:37] - discord.client - INFO - logging in using static token
+[2022-04-16 22:43:38] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:43:38] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-nhw7",{"micros":50839,"calls":["discord-sessions-blue-prd-2-63",{"micros":49458,"calls":["start_session",{"micros":37657,"calls":["discord-api-6db46b8d45-k79nw",{"micros":33742,"calls":["get_user",{"micros":6222},"add_authorized_ip",{"micros":1379},"get_guilds",{"micros":5483},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 09b76b8edd54604a2d78202734cc173a).
+[2022-04-16 22:43:39] - discord.http - WARNING - We are being rate limited. Retrying in 11.30 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 22:43:40] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:43:40] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:43:40] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:43:40] - test - INFO - Test cog loaded.
+[2022-04-16 22:43:44] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:43:44] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:43:44] - discord.client - INFO - Cleaning up after 3 tasks.
+[2022-04-16 22:43:44] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:43:44] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:43:46] - discord.client - INFO - logging in using static token
+[2022-04-16 22:43:47] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:43:47] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-x1fs",{"micros":165546,"calls":["discord-sessions-blue-prd-2-45",{"micros":164027,"calls":["start_session",{"micros":113430,"calls":["discord-api-6db46b8d45-w7g2w",{"micros":102489,"calls":["get_user",{"micros":17646},"add_authorized_ip",{"micros":1702},"get_guilds",{"micros":32491},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":21481,"calls":[]}]}]}] (Session ID: f4b257ca3bb906f048e5bede36e78499).
+[2022-04-16 22:43:48] - discord.http - WARNING - We are being rate limited. Retrying in 2.12 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 22:43:49] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:43:49] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:43:49] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:43:49] - test - INFO - Test cog loaded.
+[2022-04-16 22:50:57] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:50:57] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:50:57] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:50:58] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:50:58] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:50:59] - discord.client - INFO - logging in using static token
+[2022-04-16 22:51:00] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:51:00] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-wql2",{"micros":154532,"calls":["discord-sessions-blue-prd-2-70",{"micros":150768,"calls":["start_session",{"micros":123874,"calls":["discord-api-6db46b8d45-95mmd",{"micros":112931,"calls":["get_user",{"micros":20650},"add_authorized_ip",{"micros":4304},"get_guilds",{"micros":6334},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":26193,"calls":[]}]}]}] (Session ID: a3609a9fed51517cb9b0157c7cbfb426).
+[2022-04-16 22:51:02] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:51:02] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:51:02] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:51:02] - test - INFO - Test cog loaded.
+[2022-04-16 22:52:02] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:52:02] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:52:02] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:52:02] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:52:02] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:52:04] - discord.client - INFO - logging in using static token
+[2022-04-16 22:52:05] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:52:05] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-j4b8",{"micros":81521,"calls":["discord-sessions-blue-prd-2-20",{"micros":80757,"calls":["start_session",{"micros":62213,"calls":["discord-api-6db46b8d45-8jsrq",{"micros":54417,"calls":["get_user",{"micros":10244},"add_authorized_ip",{"micros":7324},"get_guilds",{"micros":5114},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":9002,"calls":[]}]}]}] (Session ID: 2b3f69479528a3ae444ccf3d25829440).
+[2022-04-16 22:52:07] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:52:07] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:52:07] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:52:07] - test - INFO - Test cog loaded.
+[2022-04-16 22:54:35] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:54:35] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:54:35] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:54:35] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:54:35] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:54:38] - discord.client - INFO - logging in using static token
+[2022-04-16 22:54:38] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:54:38] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-z458",{"micros":109329,"calls":["discord-sessions-blue-prd-2-118",{"micros":108591,"calls":["start_session",{"micros":46147,"calls":["discord-api-6db46b8d45-qhr9p",{"micros":41036,"calls":["get_user",{"micros":6680},"add_authorized_ip",{"micros":2749},"get_guilds",{"micros":4618},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18682,"calls":[]}]}]}] (Session ID: 8989a58b4a52ba8a58a2efe15bb13a42).
+[2022-04-16 22:54:40] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:54:40] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:54:40] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:54:40] - test - INFO - Test cog loaded.
+[2022-04-16 22:54:41] - db_functions - INFO - Creating payload
+[2022-04-16 22:54:49] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:54:49] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:54:49] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:54:49] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:54:49] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:58:23] - discord.client - INFO - logging in using static token
+[2022-04-16 22:58:23] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:58:23] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-4b4t",{"micros":64049,"calls":["discord-sessions-blue-prd-2-157",{"micros":63103,"calls":["start_session",{"micros":55700,"calls":["discord-api-6db46b8d45-8jsrq",{"micros":50779,"calls":["get_user",{"micros":8211},"add_authorized_ip",{"micros":1806},"get_guilds",{"micros":6017},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":6857,"calls":[]}]}]}] (Session ID: 15a35c0db3ca5ed5bb5b8f0324781e7e).
+[2022-04-16 22:58:25] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:58:25] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:58:25] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:58:25] - test - INFO - Test cog loaded.
+[2022-04-16 22:58:39] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:58:39] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:58:39] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 22:58:39] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:58:39] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:58:41] - discord.client - INFO - logging in using static token
+[2022-04-16 22:58:41] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:58:41] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-t8rj",{"micros":98841,"calls":["discord-sessions-blue-prd-2-103",{"micros":97802,"calls":["start_session",{"micros":66984,"calls":["discord-api-6db46b8d45-hmzv4",{"micros":61427,"calls":["get_user",{"micros":9555},"add_authorized_ip",{"micros":1650},"get_guilds",{"micros":8923},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 2c232c27ce678262f36fcd459276db6f).
+[2022-04-16 22:58:42] - discord.http - WARNING - We are being rate limited. Retrying in 42.81 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 22:58:43] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:58:43] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:58:43] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:58:43] - test - INFO - Test cog loaded.
+[2022-04-16 22:58:44] - db_functions - INFO - Creating payload
+[2022-04-16 22:59:08] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 22:59:08] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 22:59:08] - discord.client - INFO - Cleaning up after 3 tasks.
+[2022-04-16 22:59:08] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 22:59:08] - discord.client - INFO - Closing the event loop.
+[2022-04-16 22:59:09] - discord.client - INFO - logging in using static token
+[2022-04-16 22:59:10] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 22:59:10] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-gp3z",{"micros":61399,"calls":["discord-sessions-blue-prd-2-148",{"micros":60438,"calls":["start_session",{"micros":43869,"calls":["discord-api-6db46b8d45-sdmq9",{"micros":38008,"calls":["get_user",{"micros":6850},"add_authorized_ip",{"micros":1651},"get_guilds",{"micros":3246},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8177,"calls":[]}]}]}] (Session ID: 404d3fb7db8ae7892b28e8b6b4a305ae).
+[2022-04-16 22:59:10] - discord.http - WARNING - We are being rate limited. Retrying in 14.61 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 22:59:11] - db_functions - INFO - Creating payload
+[2022-04-16 22:59:11] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 22:59:12] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 22:59:12] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 22:59:12] - errors - INFO - Errors cog loaded.
+[2022-04-16 22:59:12] - test - INFO - Test cog loaded.
+[2022-04-16 23:05:05] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:05:05] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:05:05] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:05:05] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:05:05] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:05:20] - discord.client - INFO - logging in using static token
+[2022-04-16 23:05:20] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:05:21] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-ftpj",{"micros":622799,"calls":["discord-sessions-blue-prd-2-133",{"micros":621964,"calls":["start_session",{"micros":581991,"calls":["discord-api-6db46b8d45-pt65b",{"micros":567830,"calls":["get_user",{"micros":514306},"add_authorized_ip",{"micros":1910},"get_guilds",{"micros":5312},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":21786,"calls":[]}]}]}] (Session ID: 090035a80c2ebc2830ec9b2313e7d59d).
+[2022-04-16 23:05:23] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:05:23] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:05:23] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:05:23] - test - INFO - Test cog loaded.
+[2022-04-16 23:21:42] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:21:42] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:21:42] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:21:42] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:21:42] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:21:44] - discord.client - INFO - logging in using static token
+[2022-04-16 23:21:45] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:21:45] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-z458",{"micros":113285,"calls":["discord-sessions-blue-prd-2-155",{"micros":112179,"calls":["start_session",{"micros":45247,"calls":["discord-api-6db46b8d45-c9xxp",{"micros":40794,"calls":["get_user",{"micros":9138},"add_authorized_ip",{"micros":1616},"get_guilds",{"micros":4648},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":31060,"calls":[]}]}]}] (Session ID: 08baf00be4fec09a5f9fc62cd789aee3).
+[2022-04-16 23:21:47] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:21:47] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:21:47] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:21:47] - test - INFO - Test cog loaded.
+[2022-04-16 23:21:49] - test - INFO - Command 
+[2022-04-16 23:21:49] - db_functions - INFO - Creating payload
+[2022-04-16 23:21:49] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:21:58] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:21:58] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:21:58] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:21:58] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:21:58] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:22:01] - discord.client - INFO - logging in using static token
+[2022-04-16 23:22:01] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:22:01] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-1gpv",{"micros":48192,"calls":["discord-sessions-blue-prd-2-38",{"micros":47368,"calls":["start_session",{"micros":40123,"calls":["discord-api-6db46b8d45-6mf5q",{"micros":36479,"calls":["get_user",{"micros":5729},"add_authorized_ip",{"micros":2298},"get_guilds",{"micros":4734},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: e3d932c353f9110ebcafd439f3605d83).
+[2022-04-16 23:22:03] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:22:03] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:22:03] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:22:03] - test - INFO - Test cog loaded.
+[2022-04-16 23:22:40] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:22:40] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:22:40] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:22:40] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:22:40] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:22:42] - discord.client - INFO - logging in using static token
+[2022-04-16 23:22:42] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:22:42] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-46cz",{"micros":80818,"calls":["discord-sessions-blue-prd-2-60",{"micros":76575,"calls":["start_session",{"micros":38904,"calls":["discord-api-6db46b8d45-j4s2m",{"micros":35055,"calls":["get_user",{"micros":6485},"add_authorized_ip",{"micros":2266},"get_guilds",{"micros":3304},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":11448,"calls":[]}]}]}] (Session ID: eca19a0384718e8505f5390e1f7bd810).
+[2022-04-16 23:22:43] - discord.http - WARNING - We are being rate limited. Retrying in 2.62 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 23:22:44] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:22:44] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:22:44] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:22:44] - test - INFO - Test cog loaded.
+[2022-04-16 23:22:45] - discord_webhook.webhook - ERROR - [1/1] Webhook status code 400: {"embeds": ["0"]}
+[2022-04-16 23:22:45] - test - INFO - Command 
+[2022-04-16 23:22:45] - db_functions - INFO - Creating payload
+[2022-04-16 23:22:45] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:22:53] - discord_webhook.webhook - ERROR - [1/1] Webhook status code 400: {"embeds": ["0"]}
+[2022-04-16 23:22:53] - test - INFO - Command 
+[2022-04-16 23:22:53] - db_functions - INFO - Creating payload
+[2022-04-16 23:22:53] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:23:06] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:23:06] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:23:06] - discord.client - INFO - Cleaning up after 3 tasks.
+[2022-04-16 23:23:07] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:23:07] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:23:28] - discord.client - INFO - logging in using static token
+[2022-04-16 23:23:28] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:23:28] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-gr3p",{"micros":67197,"calls":["discord-sessions-blue-prd-2-137",{"micros":66153,"calls":["start_session",{"micros":55457,"calls":["discord-api-6db46b8d45-mv76b",{"micros":50976,"calls":["get_user",{"micros":7245},"add_authorized_ip",{"micros":3856},"get_guilds",{"micros":8147},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":5644,"calls":[]}]}]}] (Session ID: 4382dccb35188fc31505b2921b293dcb).
+[2022-04-16 23:23:29] - discord.http - WARNING - We are being rate limited. Retrying in 16.27 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 23:23:30] - discord.http - WARNING - We are being rate limited. Retrying in 13.26 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands"
+[2022-04-16 23:23:31] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:23:31] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:23:31] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:23:31] - test - INFO - Test cog loaded.
+[2022-04-16 23:23:33] - discord_webhook.webhook - ERROR - [1/1] Webhook status code 400: {"embeds": ["0"]}
+[2022-04-16 23:23:33] - test - INFO - Command 
+[2022-04-16 23:23:33] - db_functions - INFO - Creating payload
+[2022-04-16 23:23:33] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:23:52] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:23:52] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:23:52] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:23:52] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:23:52] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:23:54] - discord.client - INFO - logging in using static token
+[2022-04-16 23:23:54] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:23:54] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-kcvz",{"micros":55150,"calls":["discord-sessions-blue-prd-2-30",{"micros":53646,"calls":["start_session",{"micros":52907,"calls":["discord-api-6db46b8d45-8jcjq",{"micros":47869,"calls":["get_user",{"micros":8313},"add_authorized_ip",{"micros":1652},"get_guilds",{"micros":5722},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":203,"calls":[]}]}]}] (Session ID: 3cdf8187256d71b7d5b5cb0368c5024c).
+[2022-04-16 23:23:55] - discord.http - WARNING - We are being rate limited. Retrying in 50.66 seconds. Handled under the bucket "None:958976992638812220:/applications/{application_id}/guilds/{guild_id}/commands/permissions"
+[2022-04-16 23:23:56] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:23:56] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:23:56] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:23:56] - test - INFO - Test cog loaded.
+[2022-04-16 23:23:58] - discord_webhook.webhook - ERROR - [1/1] Webhook status code 400: {"embeds": ["0"]}
+[2022-04-16 23:23:58] - test - INFO - Command 
+[2022-04-16 23:23:58] - db_functions - INFO - Creating payload
+[2022-04-16 23:23:58] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:24:05] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:24:05] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:24:05] - discord.client - INFO - Cleaning up after 3 tasks.
+[2022-04-16 23:24:05] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:24:05] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:27:55] - discord.client - INFO - logging in using static token
+[2022-04-16 23:27:55] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:27:55] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-x1fs",{"micros":81958,"calls":["discord-sessions-blue-prd-2-21",{"micros":78120,"calls":["start_session",{"micros":50431,"calls":["discord-api-6db46b8d45-khgqp",{"micros":45752,"calls":["get_user",{"micros":6011},"add_authorized_ip",{"micros":2360},"get_guilds",{"micros":6537},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":27162,"calls":[]}]}]}] (Session ID: 8ff101174be787414ccdf6ffadb076d6).
+[2022-04-16 23:27:57] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:27:57] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:27:57] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:27:57] - test - INFO - Test cog loaded.
+[2022-04-16 23:30:31] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:30:31] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:30:31] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:30:31] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:30:31] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:30:35] - discord.client - INFO - logging in using static token
+[2022-04-16 23:30:36] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:30:36] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-7457",{"micros":98197,"calls":["discord-sessions-blue-prd-2-134",{"micros":97452,"calls":["start_session",{"micros":49924,"calls":["discord-api-6db46b8d45-wzgf6",{"micros":45642,"calls":["get_user",{"micros":6934},"add_authorized_ip",{"micros":1782},"get_guilds",{"micros":8610},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":47019,"calls":[]}]}]}] (Session ID: a1fc38452bf2aa9d1a6d972f6aa0bb72).
+[2022-04-16 23:30:38] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:30:38] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:30:38] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:30:38] - test - INFO - Test cog loaded.
+[2022-04-16 23:36:42] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:36:42] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:36:42] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:36:42] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:36:42] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:36:44] - discord.client - INFO - logging in using static token
+[2022-04-16 23:36:45] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:36:45] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-7p8c",{"micros":50333,"calls":["discord-sessions-blue-prd-2-108",{"micros":49349,"calls":["start_session",{"micros":42445,"calls":["discord-api-6db46b8d45-hqs98",{"micros":38035,"calls":["get_user",{"micros":7391},"add_authorized_ip",{"micros":1926},"get_guilds",{"micros":4594},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6424,"calls":[]}]}]}] (Session ID: 08d7e3f1be418ee2a13a658a25a8acc3).
+[2022-04-16 23:36:47] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:36:47] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:36:47] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:36:47] - test - INFO - Test cog loaded.
+[2022-04-16 23:36:47] - test - INFO - Command 
+[2022-04-16 23:36:48] - db_functions - INFO - Creating payload
+[2022-04-16 23:36:48] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:38:10] - test - INFO - Command 
+[2022-04-16 23:38:10] - db_functions - INFO - Creating payload
+[2022-04-16 23:38:10] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:39:23] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:39:23] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:39:23] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:39:23] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:39:23] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:39:25] - discord.client - INFO - logging in using static token
+[2022-04-16 23:39:25] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:39:26] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-lkt7",{"micros":78973,"calls":["discord-sessions-blue-prd-2-172",{"micros":78107,"calls":["start_session",{"micros":50406,"calls":["discord-api-6db46b8d45-lc96p",{"micros":46099,"calls":["get_user",{"micros":10080},"add_authorized_ip",{"micros":3845},"get_guilds",{"micros":4044},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":27047,"calls":[]}]}]}] (Session ID: c61715d5f1c2ab09343f24e634dea2b6).
+[2022-04-16 23:39:28] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:39:28] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:39:28] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:39:28] - test - INFO - Test cog loaded.
+[2022-04-16 23:39:28] - db_functions - INFO - Creating payload
+[2022-04-16 23:39:28] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:39:37] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:39:37] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:39:37] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:39:37] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:39:37] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:39:38] - discord.client - INFO - logging in using static token
+[2022-04-16 23:39:39] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:39:39] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-h4nl",{"micros":143142,"calls":["discord-sessions-blue-prd-2-127",{"micros":142275,"calls":["start_session",{"micros":72980,"calls":["discord-api-6db46b8d45-pwjfc",{"micros":62337,"calls":["get_user",{"micros":12273},"add_authorized_ip",{"micros":8252},"get_guilds",{"micros":9428},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":32357,"calls":[]}]}]}] (Session ID: ebeb5fc6d399ff996f57ba9f00a4164b).
+[2022-04-16 23:39:41] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:39:41] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:39:41] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:39:41] - test - INFO - Test cog loaded.
+[2022-04-16 23:39:46] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used test
+[2022-04-16 23:39:46] - db_functions - INFO - Creating payload
+[2022-04-16 23:39:46] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:40:33] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:40:33] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:40:33] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:40:33] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:40:33] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:42:35] - discord.client - INFO - logging in using static token
+[2022-04-16 23:42:36] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:42:36] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-gclv",{"micros":50289,"calls":["discord-sessions-blue-prd-2-149",{"micros":49602,"calls":["start_session",{"micros":33105,"calls":["discord-api-6db46b8d45-8fr4w",{"micros":30051,"calls":["get_user",{"micros":5561},"add_authorized_ip",{"micros":1252},"get_guilds",{"micros":3519},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 7977ec2bf8205d1a8eb4623f4cee2c36).
+[2022-04-16 23:42:38] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:42:38] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:42:38] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:42:38] - test - INFO - Test cog loaded.
+[2022-04-16 23:42:42] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-16 23:42:43] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-16 23:44:16] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-16 23:44:16] - discord.client - INFO - Cleaning up tasks.
+[2022-04-16 23:44:16] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-16 23:44:16] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-16 23:44:16] - discord.client - INFO - Closing the event loop.
+[2022-04-16 23:44:20] - discord.client - INFO - logging in using static token
+[2022-04-16 23:44:20] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-16 23:44:20] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-cq52",{"micros":72425,"calls":["discord-sessions-blue-prd-2-161",{"micros":69000,"calls":["start_session",{"micros":37126,"calls":["discord-api-6db46b8d45-rs6xh",{"micros":33266,"calls":["get_user",{"micros":6644},"add_authorized_ip",{"micros":1266},"get_guilds",{"micros":4327},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":15986,"calls":[]}]}]}] (Session ID: 7424ff6577306225a7794c24bcb5da7c).
+[2022-04-16 23:44:21] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-16 23:44:22] - db_functions - INFO - Creating payload
+[2022-04-16 23:44:22] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-16 23:44:22] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-16 23:44:22] - client - INFO - test bot11111#9463 is online.
+[2022-04-16 23:44:22] - errors - INFO - Errors cog loaded.
+[2022-04-16 23:44:22] - test - INFO - Test cog loaded.
+[2022-04-16 23:44:28] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:16:45] - discord.client - INFO - logging in using static token
+[2022-04-17 02:16:46] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:16:46] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-xx65",{"micros":95404,"calls":["discord-sessions-blue-prd-2-11",{"micros":94709,"calls":["start_session",{"micros":42391,"calls":["discord-api-6db46b8d45-rfjtq",{"micros":39077,"calls":["get_user",{"micros":7627},"add_authorized_ip",{"micros":1985},"get_guilds",{"micros":5069},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":28870,"calls":[]}]}]}] (Session ID: 20455634a0d57e44c560bae10a3285a6).
+[2022-04-17 02:16:48] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:16:48] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:16:48] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:16:48] - test - INFO - Test cog loaded.
+[2022-04-17 02:16:49] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:17:01] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:17:01] - db_functions - INFO - Creating payload
+[2022-04-17 02:17:19] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:17:19] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:17:19] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:17:19] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:17:19] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:17:28] - discord.client - INFO - logging in using static token
+[2022-04-17 02:17:29] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:17:29] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-qmz1",{"micros":105643,"calls":["discord-sessions-blue-prd-2-161",{"micros":104717,"calls":["start_session",{"micros":92126,"calls":["discord-api-6db46b8d45-qhxm5",{"micros":85715,"calls":["get_user",{"micros":8686},"add_authorized_ip",{"micros":7410},"get_guilds",{"micros":13353},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":12014,"calls":[]}]}]}] (Session ID: 887fbbf5ea168e33037e52b9ec58d074).
+[2022-04-17 02:17:31] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:17:31] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:17:31] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:17:31] - test - INFO - Test cog loaded.
+[2022-04-17 02:17:51] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:17:51] - db_functions - INFO - Creating payload
+[2022-04-17 02:18:56] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:18:56] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:18:56] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:18:56] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:18:56] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:19:01] - discord.client - INFO - logging in using static token
+[2022-04-17 02:19:01] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:19:01] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-w33j",{"micros":130570,"calls":["discord-sessions-blue-prd-2-8",{"micros":129610,"calls":["start_session",{"micros":53819,"calls":["discord-api-6db46b8d45-7nfqj",{"micros":48930,"calls":["get_user",{"micros":8085},"add_authorized_ip",{"micros":1545},"get_guilds",{"micros":8574},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":30727,"calls":[]}]}]}] (Session ID: fa7543f622c7472415dcc7e5c237bee7).
+[2022-04-17 02:19:02] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:19:02] - db_functions - INFO - Creating payload
+[2022-04-17 02:19:03] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:19:03] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:19:03] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:19:03] - test - INFO - Test cog loaded.
+[2022-04-17 02:19:16] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:19:16] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:19:16] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:19:16] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:19:16] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:19:22] - discord.client - INFO - logging in using static token
+[2022-04-17 02:19:22] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:19:22] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-1mll",{"micros":69368,"calls":["discord-sessions-blue-prd-2-81",{"micros":68150,"calls":["start_session",{"micros":46148,"calls":["discord-api-6db46b8d45-gvfx9",{"micros":41481,"calls":["get_user",{"micros":7229},"add_authorized_ip",{"micros":1807},"get_guilds",{"micros":3332},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: a1d51949606a96edbc5e85389e7cefa4).
+[2022-04-17 02:19:24] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:19:24] - db_functions - INFO - Creating payload
+[2022-04-17 02:19:24] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 02:19:24] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:19:24] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:19:24] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:19:24] - test - INFO - Test cog loaded.
+[2022-04-17 02:26:40] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:26:40] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:26:40] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:26:40] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:26:40] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:26:44] - discord.client - INFO - logging in using static token
+[2022-04-17 02:26:45] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:26:45] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-m2j7",{"micros":108544,"calls":["discord-sessions-blue-prd-2-120",{"micros":107939,"calls":["start_session",{"micros":90002,"calls":["discord-api-6db46b8d45-2fcjx",{"micros":87047,"calls":["get_user",{"micros":23178},"add_authorized_ip",{"micros":8929},"get_guilds",{"micros":10544},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":15581,"calls":[]}]}]}] (Session ID: e4473f130f216aa82e700492ba3d0aed).
+[2022-04-17 02:26:47] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:26:47] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:26:47] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:26:47] - test - INFO - Test cog loaded.
+[2022-04-17 02:26:48] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:26:48] - db_functions - INFO - Creating payload
+[2022-04-17 02:26:48] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 02:28:05] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:28:05] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:28:05] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:28:05] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:28:05] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:28:10] - discord.client - INFO - logging in using static token
+[2022-04-17 02:28:10] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:28:10] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-4j42",{"micros":60414,"calls":["discord-sessions-blue-prd-2-171",{"micros":59636,"calls":["start_session",{"micros":42075,"calls":["discord-api-6db46b8d45-vwvv9",{"micros":37557,"calls":["get_user",{"micros":5862},"add_authorized_ip",{"micros":1739},"get_guilds",{"micros":4068},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":16942,"calls":[]}]}]}] (Session ID: a15125974c8b98f67d5e18ca7647720c).
+[2022-04-17 02:28:12] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:28:12] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:28:12] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:28:12] - test - INFO - Test cog loaded.
+[2022-04-17 02:28:14] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:28:14] - db_functions - INFO - Creating payload
+[2022-04-17 02:28:14] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 02:31:21] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 02:31:21] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 02:31:21] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 02:31:21] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 02:31:21] - discord.client - INFO - Closing the event loop.
+[2022-04-17 02:31:25] - discord.client - INFO - logging in using static token
+[2022-04-17 02:31:25] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 02:31:25] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-j5s1",{"micros":96230,"calls":["discord-sessions-blue-prd-2-112",{"micros":93851,"calls":["start_session",{"micros":62375,"calls":["discord-api-6db46b8d45-tx2hg",{"micros":57375,"calls":["get_user",{"micros":11444},"add_authorized_ip",{"micros":3386},"get_guilds",{"micros":7174},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 2905e3c4da1e7c84806b0734dd5b3611).
+[2022-04-17 02:31:27] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 02:31:27] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 02:31:28] - errors - INFO - Errors cog loaded.
+[2022-04-17 02:31:28] - test - INFO - Test cog loaded.
+[2022-04-17 02:31:31] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 02:31:32] - db_functions - INFO - Creating payload
+[2022-04-17 02:31:32] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 03:28:48] - discord.client - INFO - logging in using static token
+[2022-04-17 03:28:49] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:28:49] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-lj1f",{"micros":75911,"calls":["discord-sessions-blue-prd-2-81",{"micros":70307,"calls":["start_session",{"micros":64011,"calls":["discord-api-6db46b8d45-g6ghp",{"micros":53483,"calls":["get_user",{"micros":6896},"add_authorized_ip",{"micros":2703},"get_guilds",{"micros":5766},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":5,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 134d580a8ef7cd32ee29c8d79f0412bf).
+[2022-04-17 03:28:51] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:28:51] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:28:51] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:28:51] - events - INFO - Events cog loaded.
+[2022-04-17 03:28:51] - test - INFO - Test cog loaded.
+[2022-04-17 03:28:52] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 03:28:52] - db_functions - INFO - Creating payload
+[2022-04-17 03:28:52] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 03:29:48] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:29:48] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:29:48] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:29:49] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:29:49] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:30:37] - discord.client - INFO - logging in using static token
+[2022-04-17 03:30:38] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:30:38] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-3l8d",{"micros":103694,"calls":["discord-sessions-blue-prd-2-74",{"micros":102808,"calls":["start_session",{"micros":54480,"calls":["discord-api-6db46b8d45-4fjhv",{"micros":50300,"calls":["get_user",{"micros":6848},"add_authorized_ip",{"micros":3086},"get_guilds",{"micros":3797},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":22718,"calls":[]}]}]}] (Session ID: c4a6968d22d0c3bcf88334fd2df4ebe0).
+[2022-04-17 03:30:39] - Command_Logs - INFO - User ragewire#5068 with the id 922763629185601597 used command test
+[2022-04-17 03:30:40] - db_functions - INFO - Creating payload
+[2022-04-17 03:30:40] - db_functions - INFO - Created user with the discord id of 922763629185601597
+[2022-04-17 03:30:40] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:30:40] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:30:40] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:30:40] - events - INFO - Events cog loaded.
+[2022-04-17 03:30:40] - test - INFO - Test cog loaded.
+[2022-04-17 03:34:06] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:34:06] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:34:06] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:34:06] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:34:06] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:34:11] - discord.client - INFO - logging in using static token
+[2022-04-17 03:34:11] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:34:11] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-ft1q",{"micros":88485,"calls":["discord-sessions-blue-prd-2-47",{"micros":87582,"calls":["start_session",{"micros":53073,"calls":["discord-api-6db46b8d45-rvkkr",{"micros":47994,"calls":["get_user",{"micros":8219},"add_authorized_ip",{"micros":3563},"get_guilds",{"micros":3862},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18961,"calls":[]}]}]}] (Session ID: 9244da8d3abf4e92b488282311a46b54).
+[2022-04-17 03:34:13] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:34:13] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:34:13] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:34:13] - events - INFO - Events cog loaded.
+[2022-04-17 03:34:13] - test - INFO - Test cog loaded.
+[2022-04-17 03:36:10] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:36:10] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:36:10] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:36:10] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:36:10] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:36:16] - discord.client - INFO - logging in using static token
+[2022-04-17 03:36:16] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:36:16] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-lrr9",{"micros":109527,"calls":["discord-sessions-blue-prd-2-132",{"micros":108317,"calls":["start_session",{"micros":85628,"calls":["discord-api-6db46b8d45-7kt7n",{"micros":74477,"calls":["get_user",{"micros":12980},"add_authorized_ip",{"micros":5886},"get_guilds",{"micros":6925},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":13192,"calls":[]}]}]}] (Session ID: 9a35831106b48da15b04fdb23647e0b9).
+[2022-04-17 03:36:18] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:36:18] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:36:18] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:36:18] - events - INFO - Events cog loaded.
+[2022-04-17 03:36:18] - test - INFO - Test cog loaded.
+[2022-04-17 03:42:25] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:42:25] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:42:25] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:42:25] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:42:25] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:42:29] - discord.client - INFO - logging in using static token
+[2022-04-17 03:42:29] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:42:29] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-sxpl",{"micros":84747,"calls":["discord-sessions-blue-prd-2-64",{"micros":82275,"calls":["start_session",{"micros":64368,"calls":["discord-api-6db46b8d45-9492d",{"micros":58215,"calls":["get_user",{"micros":10402},"add_authorized_ip",{"micros":4302},"get_guilds",{"micros":6002},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 8cb5d94153b557f4515d66483b29ad5c).
+[2022-04-17 03:42:31] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:42:31] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:42:31] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:42:31] - events - INFO - Events cog loaded.
+[2022-04-17 03:42:31] - test - INFO - Test cog loaded.
+[2022-04-17 03:42:51] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:42:51] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:42:51] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:42:51] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:42:51] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:42:56] - discord.client - INFO - logging in using static token
+[2022-04-17 03:42:57] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:42:57] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-77ld",{"micros":82122,"calls":["discord-sessions-blue-prd-2-114",{"micros":79985,"calls":["start_session",{"micros":67049,"calls":["discord-api-6db46b8d45-j4sxd",{"micros":56769,"calls":["get_user",{"micros":8036},"add_authorized_ip",{"micros":3085},"get_guilds",{"micros":7456},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":24,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 3c46fb650ab716269afc05e768040265).
+[2022-04-17 03:42:59] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:42:59] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:42:59] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:42:59] - events - INFO - Events cog loaded.
+[2022-04-17 03:42:59] - test - INFO - Test cog loaded.
+[2022-04-17 03:50:37] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 03:50:37] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 03:50:37] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 03:50:37] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 03:50:37] - discord.client - INFO - Closing the event loop.
+[2022-04-17 03:50:41] - discord.client - INFO - logging in using static token
+[2022-04-17 03:50:41] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 03:50:41] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-7nsk",{"micros":180500,"calls":["discord-sessions-blue-prd-2-85",{"micros":177253,"calls":["start_session",{"micros":113469,"calls":["discord-api-6db46b8d45-hdxdz",{"micros":107467,"calls":["get_user",{"micros":27323},"add_authorized_ip",{"micros":5614},"get_guilds",{"micros":7496},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: ed515cb9909552a4f04ca9d1abc20b1a).
+[2022-04-17 03:50:43] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 03:50:43] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 03:50:44] - errors - INFO - Errors cog loaded.
+[2022-04-17 03:50:44] - events - INFO - Events cog loaded.
+[2022-04-17 03:50:44] - test - INFO - Test cog loaded.
+[2022-04-17 04:07:39] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:07:39] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:07:39] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:07:39] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:07:39] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:07:44] - discord.client - INFO - logging in using static token
+[2022-04-17 04:07:44] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:07:44] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-m2j7",{"micros":98960,"calls":["discord-sessions-blue-prd-2-9",{"micros":85457,"calls":["start_session",{"micros":53114,"calls":["discord-api-6db46b8d45-2lrjn",{"micros":49027,"calls":["get_user",{"micros":14075},"add_authorized_ip",{"micros":1543},"get_guilds",{"micros":4611},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":19870,"calls":[]}]}]}] (Session ID: 97ed3f285343078afc4e20e1677adb30).
+[2022-04-17 04:07:46] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:07:46] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:07:46] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:07:46] - events - INFO - Events cog loaded.
+[2022-04-17 04:07:46] - test - INFO - Test cog loaded.
+[2022-04-17 04:08:09] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:08:09] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:08:09] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:08:09] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:08:09] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:08:13] - discord.client - INFO - logging in using static token
+[2022-04-17 04:08:13] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:08:13] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-zw6d",{"micros":72578,"calls":["discord-sessions-blue-prd-2-148",{"micros":71768,"calls":["start_session",{"micros":48215,"calls":["discord-api-6db46b8d45-fvf62",{"micros":44999,"calls":["get_user",{"micros":8735},"add_authorized_ip",{"micros":1683},"get_guilds",{"micros":5187},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: c0f5ada14c6e62ba913a56953f33ea39).
+[2022-04-17 04:08:15] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:08:15] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:08:15] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:08:15] - events - INFO - Events cog loaded.
+[2022-04-17 04:08:15] - test - INFO - Test cog loaded.
+[2022-04-17 04:21:56] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:21:56] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:21:56] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:21:56] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:21:56] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:22:00] - discord.client - INFO - logging in using static token
+[2022-04-17 04:22:00] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:22:00] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-v08c",{"micros":179275,"calls":["discord-sessions-blue-prd-2-25",{"micros":175542,"calls":["start_session",{"micros":51883,"calls":["discord-api-6db46b8d45-4cvpl",{"micros":45634,"calls":["get_user",{"micros":10997},"add_authorized_ip",{"micros":1783},"get_guilds",{"micros":3824},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 0474ff0704f77c5e6a760750aef276da).
+[2022-04-17 04:22:02] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:22:02] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:22:02] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:22:02] - events - INFO - Events cog loaded.
+[2022-04-17 04:22:02] - test - INFO - Test cog loaded.
+[2022-04-17 04:23:19] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:23:19] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:23:19] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:23:19] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:23:19] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:23:22] - discord.client - INFO - logging in using static token
+[2022-04-17 04:23:23] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:23:23] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-c224",{"micros":178948,"calls":["discord-sessions-blue-prd-2-55",{"micros":163420,"calls":["start_session",{"micros":103830,"calls":["discord-api-6db46b8d45-p8v8w",{"micros":97147,"calls":["get_user",{"micros":20567},"add_authorized_ip",{"micros":5071},"get_guilds",{"micros":19005},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: cbcc39b505c3f96e86b523ad8dfab887).
+[2022-04-17 04:23:25] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:23:25] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:23:25] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:23:25] - events - INFO - Events cog loaded.
+[2022-04-17 04:23:25] - test - INFO - Test cog loaded.
+[2022-04-17 04:24:04] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:24:04] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:24:04] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:24:04] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:24:04] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:24:53] - discord.client - INFO - logging in using static token
+[2022-04-17 04:24:53] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:24:53] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-0n95",{"micros":106625,"calls":["discord-sessions-blue-prd-2-118",{"micros":105688,"calls":["start_session",{"micros":58753,"calls":["discord-api-6db46b8d45-hp4xk",{"micros":52399,"calls":["get_user",{"micros":10306},"add_authorized_ip",{"micros":2391},"get_guilds",{"micros":7554},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 1c9d31d37f7b9fdcc50c75718f5e9b25).
+[2022-04-17 04:24:55] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:24:55] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:24:55] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:24:55] - events - INFO - Events cog loaded.
+[2022-04-17 04:24:55] - test - INFO - Test cog loaded.
+[2022-04-17 04:26:20] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:26:20] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:26:20] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:26:20] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:26:20] - discord.client - INFO - Closing the event loop.
+[2022-04-17 04:26:32] - discord.client - INFO - logging in using static token
+[2022-04-17 04:26:33] - discord.gateway - INFO - Shard ID 0 has sent the IDENTIFY payload.
+[2022-04-17 04:26:33] - discord.gateway - INFO - Shard ID 0 has connected to Gateway: ["gateway-prd-main-r5dj",{"micros":101559,"calls":["discord-sessions-blue-prd-2-171",{"micros":100647,"calls":["start_session",{"micros":49586,"calls":["discord-api-6db46b8d45-zzrnc",{"micros":44125,"calls":["get_user",{"micros":7176},"add_authorized_ip",{"micros":3630},"get_guilds",{"micros":5408},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 525361acbfd0ec169bacc86ec10a637f).
+[2022-04-17 04:26:35] - events - INFO - shard ID: 0 is online and ready.
+[2022-04-17 04:26:35] - client - INFO - test bot11111#9463 is online.
+[2022-04-17 04:26:35] - errors - INFO - Errors cog loaded.
+[2022-04-17 04:26:35] - events - INFO - Events cog loaded.
+[2022-04-17 04:26:35] - test - INFO - Test cog loaded.
+[2022-04-17 04:29:27] - discord.client - INFO - Received signal to terminate bot and event loop.
+[2022-04-17 04:29:27] - discord.client - INFO - Cleaning up tasks.
+[2022-04-17 04:29:27] - discord.client - INFO - Cleaning up after 2 tasks.
+[2022-04-17 04:29:27] - discord.client - INFO - All tasks finished cancelling.
+[2022-04-17 04:29:27] - discord.client - INFO - Closing the event loop.

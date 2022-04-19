@@ -41,6 +41,9 @@ async def on_ready():
 for filename in os.listdir("./Cogs"):
     if filename.endswith(".py"):
         client.load_extension(f"Cogs.{filename[:-3]}")
+for filename in os.listdir("./Cogs/Money"):
+    if filename.endswith(".py"):
+        client.load_extension(f"Cogs.Money.{filename[:-3]}")
 
 # Loads all the files in the Cogs folder that contain the commands
 

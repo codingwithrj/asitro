@@ -19,5 +19,6 @@ db = myclient["mydatabase"]
 
 users = db["users"]
 guilds = db["guilds"]
+items = db["items"]
 
 # setting up the user collection
